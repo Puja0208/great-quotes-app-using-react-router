@@ -1,5 +1,4 @@
 import QuoteList from "../components/quotes/QuoteList";
-import QuoteDetail from "./QuoteDetail";
 
 const DUMMY_QUOTES = [
   {
